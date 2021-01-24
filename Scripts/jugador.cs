@@ -14,9 +14,7 @@ public class jugador : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-     if (Input)  {
 
-     }
 
     }
 }
